@@ -1,0 +1,22 @@
+# ninja log v5
+149	1176	7108311530313360	CMakeFiles/MyProject.dir/variable.cpp.obj	3aebd185c8502549
+1	1180	7108311530343355	CMakeFiles/MyProject.dir/ComposedCalculator_main.cpp.obj	d29e997528f5a4ec
+11	1187	7108311530433346	CMakeFiles/MyProject.dir/lexer.cpp.obj	3f2fe5df99244821
+6	1244	7108311531028831	CMakeFiles/MyProject.dir/function.cpp.obj	525dd950c4eb9636
+168	1423	7108311532829350	CMakeFiles/MyProject.dir/parser.cpp.obj	541c48974d1a2dca
+28	1703	7108311535635121	CMakeFiles/MyProject.dir/LeastSquare_main.cpp.obj	6faaab5feadd4768
+118	1761	7108311536205131	CMakeFiles/MyProject.dir/LinearEquations_main.cpp.obj	815a077bbc54e39d
+21	1769	7108311536285116	CMakeFiles/MyProject.dir/Least_Square.cpp.obj	8ce7f996e631e90b
+134	1781	7108311536416060	CMakeFiles/MyProject.dir/main.cpp.obj	cc42f836aca52a3e
+192	1818	7108311536791475	CMakeFiles/MyProject.dir/Simplex_Method.cpp.obj	5db732d3a0ce9e11
+125	1821	7108311536811492	CMakeFiles/MyProject.dir/Linear_Equations.cpp.obj	ceab8676418fcc8d
+5	859	7108313087468255	CMakeFiles/MyProject.dir/main.cpp.obj	cc42f836aca52a3e
+10	888	7108313087825843	CMakeFiles/MyProject.dir/Simplex_Method.cpp.obj	5db732d3a0ce9e11
+888	1433	7108313093156436	MyProject.exe	6ccb2ec331d7bc98
+3	844	7108316578622874	CMakeFiles/MyProject.dir/main.cpp.obj	cc42f836aca52a3e
+9	869	7108316578869519	CMakeFiles/MyProject.dir/Simplex_Method.cpp.obj	5db732d3a0ce9e11
+869	1440	7108316584492991	MyProject.exe	6ccb2ec331d7bc98
+3	819	7108316836895479	CMakeFiles/MyProject.dir/main.cpp.obj	cc42f836aca52a3e
+820	1379	7108316842364422	MyProject.exe	6ccb2ec331d7bc98
+4	821	7108318086625034	CMakeFiles/MyProject.dir/main.cpp.obj	cc42f836aca52a3e
+821	1363	7108318091917137	MyProject.exe	6ccb2ec331d7bc98
